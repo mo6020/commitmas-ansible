@@ -1,7 +1,11 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+This role to download and configure the microservices demo application "Sock Shop" to demonstrate a typical microservices
+based software architecture.
+
+[https://microservices-demo.github.io
+](https://microservices-demo.github.io)
 
 Requirements
 ------------
@@ -35,4 +39,4 @@ BSD
 Author Information
 ------------------
 
-An optional section for the role authors to include contact information, or a website (HTML is not allowed).
+Ed Morgan - [@mo6020](https://twitter.com/mo6020) - [https://blog.edmorgan.info]()
