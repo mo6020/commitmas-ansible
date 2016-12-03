@@ -1,4 +1,4 @@
-Role Name
+ansible-MicroservicesDemo
 =========
 
 This role to download and configure the microservices demo application "Sock Shop" to demonstrate a typical microservices
